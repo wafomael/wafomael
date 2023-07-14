@@ -1,0 +1,5 @@
+- 👋 Salut, je suis @wafomael.
+- 👀 Je m'intéresse aux jeux vidéo, aux nouvelles technologies, au travail d'équipe et à la bonne nourriture.
+- 🌱 En ce moment, j'apprends constamment et je suis passionné par le développement de logiciels.
+- 💞️ Je suis ouvert à collaborer sur des projets intéressants liés au développement de logiciels ou aux jeux vidéo.
+- 📫 Vous pouvez me contacter par e-mail à [votre adresse e-mail] ou me trouver sur GitHub sous le nom @wafomael.
